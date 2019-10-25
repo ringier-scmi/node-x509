@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.com/RavelSSO/node-x509.svg?branch=master)](https://travis-ci.com/RavelSSO/node-x509)
+[![Depfu](https://badges.depfu.com/badges/6516ca58cffc5a756bf686ee1833b915/count.svg)](https://depfu.com/github/RavelSSO/node-x509?project_id=9939)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f642412fcce44b3f9e238372a111cfc7)](https://www.codacy.com/manual/RavelSSO/node-x509?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RavelSSO/node-x509&amp;utm_campaign=Badge_Grade)
+
 node-x509
 =========
-
-[![Build Status](https://travis-ci.org/Southern/node-x509.svg?branch=master)](https://travis-ci.org/Southern/node-x509)
 
 Simple X509 certificate parser.
 
