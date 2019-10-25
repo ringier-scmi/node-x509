@@ -12,7 +12,13 @@
     "test": "node test/test"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">12.9.0"
+  },
+  "publishConfig": {
+    "registry": "https://repo.rsso.io/repository/npm-local/"
+  },
   "dependencies": {
-    "nan": "2.12.0"
+    "nan": "2.14.0"
   }
 }
