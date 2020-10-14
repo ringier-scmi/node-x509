@@ -19,6 +19,6 @@
     "registry": "https://repo.rsso.io/repository/npm-local/"
   },
   "dependencies": {
-    "nan": "2.14.0"
+    "nan": "2.14.2"
   }
 }
